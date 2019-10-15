@@ -2,7 +2,7 @@
 ## Íslensk stopporð - Stopporðalisti - Icelandic Stop Words
 
 að
-af 
+af
 allur
 annaðhvort
 annar
@@ -47,7 +47,7 @@ sjálfur
 sumur
 svo
 til
-til 
+til
 umhverfis
 undir
 vegna
@@ -56,11 +56,11 @@ vor
 yfir
 ýmis
 það
-þar sem
+þar
 þegar
-þess 
+þess
 þessi
 þinn
 þó
-þótt 
+þótt
 þú
