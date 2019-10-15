@@ -34,6 +34,7 @@ hvorugur
 í
 meðfram
 minn
+munu
 nálægt
 neinn
 nema
@@ -47,11 +48,11 @@ sjálfur
 sumur
 svo
 til
-til
 umhverfis
 undir
 vegna
 vera
+verða
 vor
 yfir
 ýmis
