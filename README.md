@@ -1,4 +1,7 @@
 # stoppord
+
+Orð sem hafa bæta ekki við merkingu í setningar. Gott er að hunsa stopporð og algeng orð þegar leitað er í texta.
+
 ## Íslensk stopporð - Stopporðalisti - Icelandic Stop Words
 
 að
