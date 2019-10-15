@@ -44,6 +44,7 @@ nema
 né
 nokkur
 og
+ó
 sá
 sem
 sinn
@@ -68,6 +69,7 @@ yfir
 þó
 þótt
 þú
+æ
 
 ## Algengustu orðin - Most common words
 
