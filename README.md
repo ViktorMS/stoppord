@@ -396,3 +396,6 @@ yfir
 ### PS
 1000 most frequent words from media https://gist.github.com/atlijas/0e2d022e5072cd49d3037065a35761f2
 Most frequent words from subtitles https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Icelandic_wordlist
+
+# Better list?
+Atli made a more complete stop word list in light of my request on Facebook - Forritarar á Íslandi: https://github.com/atlijas/icelandic-stop-words
